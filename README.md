@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deevyam&label=Profile%20views&color=0e75b6&style=flat" alt="deevyam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deevyam6" target="blank"><img src="https://img.shields.io/twitter/follow/deevyam6?logo=twitter&style=for-the-badge" alt="deevyam6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deeyam6" target="blank"><img src="https://img.shields.io/twitter/follow/deevyam6?logo=twitter&style=for-the-badge" alt="deevyam6" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Node.js,Javascript**
 
 - 💬 Ask me about **C++, Java**
 

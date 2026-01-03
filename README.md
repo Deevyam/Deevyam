@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deevyam-soin-957a7a233/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
+  <a href="" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
   <a href="https://github.com/Deevyam" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" /></a>
   <a href="https://twitter.com/deevyam6" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" /></a>
 <a href="https://leetcode.com/deevyam" target="blank">
